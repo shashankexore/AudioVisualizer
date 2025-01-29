@@ -1,6 +1,3 @@
-Here's a `README.md` for your audio visualizer project:
-
-```markdown
 # Audio Visualizer in Python
 
 This is a simple Python-based audio visualizer that records audio and generates two plots:
